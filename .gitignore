@@ -1,0 +1,8 @@
+# Ignore build output, IDE files, etc
+build/
+*.class
+.vscode/
+.idea/
+*.iml
+screenshots/
+dist/
